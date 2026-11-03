@@ -1,4 +1,4 @@
-# MÓDULOS PARA EL ainvarCMS
+# MÓDULOS PARA ainvarCMS
 
 Se crean 7 módulos:
 - **Agenda**
